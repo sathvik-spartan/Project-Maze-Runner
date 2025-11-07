@@ -1,0 +1,21 @@
+Title: 
+Implement Q-learning to solve a simple grid-world navigation task. Compare results with policy iteration.
+______________________________________________________________________________________________________________________________________________________________________________________________
+
+Prototypical Project Structure:
+
+I .env
+II main.py
+III python 3.11 for LTS (Use other versions if working with pytorch)
+IV git_init file (Version Control)
+V Documentation along with code snippets
+______________________________________________________________________________________________________________________________________________________________________________________________
+
+References: 
+
+Prioritized Reference - https://github.com/MJeremy2017/reinforcement-learning-implementation
+
+1. https://medium.com/data-science/implement-grid-world-with-q-learning-51151747b455
+
+2. https://medium.com/@zhangyue9306/reinforcement-learning-implement-grid-world-from-scratch-c5963765ebff
+3. https://medium.com/@zhangyue9306/implement-grid-world-with-q-learning-51151747b455
