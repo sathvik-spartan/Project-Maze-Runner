@@ -35,7 +35,7 @@ Reward structure:
 | ------------- | -------------------------------------------------- |
 | every step    | small negative reward (to encourage shortest path) |
 | reaching goal | +1 reward                                          |
-| obstacles     | impassable                                         |
+| obstacles     | impassable ((of an obstacle) Incapable of being overcome or surmounted. ) |
 
 ---
 
