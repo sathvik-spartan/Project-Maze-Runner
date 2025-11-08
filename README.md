@@ -142,5 +142,10 @@ Final takeaway:
 * OpenAI Gym / Tabular RL baselines literature
 
 ---
+## 8. Additional References 
+- [Github Reference](https://github.com/MJeremy2017/reinforcement-learning-implementation)
+- [Medium Blog Post 1](https://medium.com/data-science/implement-grid-world-with-q-learning-51151747b455)
+- [Medium Blog Post 2 - Implementation from Scratch](https://medium.com/@zhangyue9306/reinforcement-learning-implement-grid-world-from-scratch-c5963765ebff)
+- [Medium Blog Post 2 - continuation](https://medium.com/@zhangyue9306/implement-grid-world-with-q-learning-51151747b455)
 
 ---
