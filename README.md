@@ -9,7 +9,7 @@ This project implements a classic Markov Decision Process (MDP) GridWorld enviro
 | **Policy Iteration** | Dynamic Programming | Yes — full model             |
 | **Q-Learning**       | Model-Free RL       | No — learns by interaction   |
 
-Goal: analyze how planning (Policy Iteration) compares to learning from experience (Q-Learning) on the same environment.
+Primary Goal: analyze how planning (Policy Iteration) compares to learning from experience (Q-Learning) on the same environment.
 
 The agent starts in a fixed start cell and must navigate to a goal cell while avoiding obstacles and accruing penalty for each step (negative default reward).
 
